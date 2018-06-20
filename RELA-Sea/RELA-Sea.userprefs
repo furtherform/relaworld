@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HUD_control.cs">
+    <Files>
+      <File FileName="../../../Downloads/DanceGod-nosky-1/DanceGod-nosky/Assets/Scripts/BeatController.cs" Line="19" Column="31" />
+      <File FileName="../../UnityCourse-3/artsnake/Assets/Scripts/GameManager.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/Platform_mover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameContorller.cs" Line="78" Column="5" />
+      <File FileName="../../UnityTests/BodilyInteraction/Kinect Testing/Assets/KinectScripts/KinectWrapper.cs" Line="1" Column="1" />
+      <File FileName="../../UnityCourse-3/artsnake/Assets/Scripts/SnackBehaviour.cs" Line="1" Column="1" />
+      <File FileName="../../UnityCourse-3/artsnake/Assets/Scripts/snakeBodyTrigger.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/Stripped Music Project/Assets/FFT.cs" Line="1" Column="1" />
+      <File FileName="../../UnityCourse-3/artsnake/Assets/Scripts/CameraDrunk.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/NewTest/Assets/Main.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/NewTest/Assets/note.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/DanceGod-nosky-1/DanceGod-nosky/Assets/Scripts/EnemyBehaviour01.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/DanceGod-nosky-1/DanceGod-nosky/Assets/Scripts/LevelMover.cs" Line="16" Column="7" />
+      <File FileName="Assets/Scripts/GUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HUD_control.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
